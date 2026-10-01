@@ -1,7 +1,7 @@
-Policy iteration converged in 6 improvement step(s), 0.062 seconds.
+Policy iteration converged in 6 improvement step(s), 0.041 seconds.
 
-Optimal policy π* (rows = cars at loc1/A 0..20, cols = cars at loc2/B 0..20)
-Positive = move A→B, negative = move B→A
+Optimal policy pi* (rows = cars at loc1/A 0..20, cols = cars at loc2/B 0..20)
+Positive = move A->B, negative = move B->A
 
       0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20
  20   5  5  5  5  4  4  3  3  3  3  2  2  2  2  1  1  1  1  0  0  0
